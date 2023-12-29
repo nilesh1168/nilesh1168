@@ -8,4 +8,4 @@ I love to learn new languages, projects and technologies.
 
 * [Software Engineer - Persistent Systems](https://www.persistent.com) 2020 - 2022
 
-🌱 I’m currently learning Ruby.
+🌱 I’m currently working on a personal movie tracker app.
