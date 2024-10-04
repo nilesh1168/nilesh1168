@@ -1,11 +1,12 @@
 ### Hi there, I'm Nilesh Suryawanshi 👋
 
-:memo: I'm currently a Master of Applied Computer Science student at Concordia University, Montreal.
+:memo: Recent Graduate from Master of Applied Computer Science at Concordia University, Montreal.
 
-I love to learn new languages, projects and technologies. 
+I love to learn new programming languages, projects and technologies. 
 
 ### Recent positions 
 
+* [Director - Gina Cody School of Engineering and Computer Science](https://gsaconcordia.ca) 2023 - 2024
 * [Software Engineer - Persistent Systems](https://www.persistent.com) 2020 - 2022
 
 🌱 I’m currently working on a personal movie tracker app.
