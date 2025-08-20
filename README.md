@@ -29,67 +29,13 @@
 
 ### 🛠️ Tech Stack  
 
-**Languages & Frameworks:**  
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
+**Languages & Frameworks**  
+| ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) <br> <sub>Java</sub> | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) <br> <sub>Python</sub> | ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) <br> <sub>JavaScript</sub> | ![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) <br> <sub>TypeScript</sub> | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) <br> <sub>Django</sub> | ![Spring Boot](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg) <br> <sub>Spring Boot</sub> | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) <br> <sub>React</sub> |
+|---|---|---|---|---|---|---|
 
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" title="Java"/>
-    <div><sub>Java</sub></div>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" title="Python"/>
-    <div><sub>Python</sub></div>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" title="JavaScript"/>
-    <div><sub>JavaScript</sub></div>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="50" title="Django"/>
-    <div><sub>Django</sub></div>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" title="Spring Boot"/>
-    <div><sub>Spring Boot</sub></div>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" title="React"/>
-    <div><sub>React</sub></div>
-  </div>
-
-</div>  
-
----
-
-**Databases & Cloud:**  
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" title="PostgreSQL"/>
-    <div><sub>PostgreSQL</sub></div>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" title="MySQL"/>
-    <div><sub>MySQL</sub></div>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" title="AWS"/>
-    <div><sub>AWS</sub></div>
-  </div>
-
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" title="Docker"/>
-    <div><sub>Docker</sub></div>
-  </div>
-
-</div>  
+**Databases & Cloud**  
+| ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) <br> <sub>PostgreSQL</sub> | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) <br> <sub>MySQL</sub> | ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) <br> <sub>AWS</sub> | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) <br> <sub>Docker</sub> |
+|---|---|---|---|
 
 ---
 
