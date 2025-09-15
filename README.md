@@ -6,9 +6,9 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🔧 Experienced in **Java, Python, Django, Spring Boot, SQL, AWS, React, and Cloud Technologies**.  
-- 🚀 3+ years of professional experience in software development, API design, and full-stack applications.  
-- 🌱 Currently working on **Flixed**, a personal movie tracker app (React, Django, PostgreSQL, TMDB/OMDB APIs).  
+- 🔧 Experienced in **Java, Spring Boot, Python, Django, SQL, React, and Cloud Technologies**.  
+- 🚀 3 years of professional experience in software development, API design, and full-stack applications.  
+- 🌱 Currently working on **InvoiceGen**, an Invoice Generator on-the-go for small businesses and freelancers. (React Native(iOS and Android), TypeScript, and Expo). 
 - 🎯 Open for **new opportunities across Canada** (flexible work settings).  
 
 ---
@@ -16,7 +16,11 @@
 ### 🌟 Highlights  
 - 🎬 **[Flixed – Movie Tracker App](https://flixed-movie-tracker.pages.dev/)**  
   Full-stack web application to track watched & wishlist movies, integrated with TMDB & OMDB APIs.  
-  Features include JWT authentication, user analytics with charts, modular React components, and a PostgreSQL backend.  
+  Features include JWT authentication, user analytics with charts, modular React components, and a PostgreSQL backend. Deployed on Cloudflare Pages and Neon DB. 
+
+- 🧾 **[InvoiceGen – Invoice Generator](https://github.com/nilesh1168/invoice-gen-app)**
+  A mobile app for generating professional invoices on-the-go, built with React Native and TypeScript.  
+  Features include PDF generation, and offline access.
 
 ---
 
