@@ -15,7 +15,7 @@
 
 - 🧾 **[InvoiceGen – Invoice Generator](https://github.com/nilesh1168/invoice-gen-app)**
   A mobile app for generating professional invoices on-the-go, built with React Native and TypeScript.  
-  Features include PDF generation, and offline access.
+  Features include PDF generation.
 
 ---
 
@@ -36,7 +36,7 @@
 | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) <br> <sub>PostgreSQL</sub> | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) <br> <sub>MySQL</sub> | ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) <br> <sub>AWS</sub> | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) <br> <sub>Docker</sub> |
 |---|---|---|---|
 
----
+<!--
 
 ### 📊 GitHub Stats  
 <p align="center">
@@ -47,6 +47,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh1168&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
 
+-->
 ---
 
 ### 🧩 LeetCode Activity  
