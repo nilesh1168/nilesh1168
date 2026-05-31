@@ -19,9 +19,10 @@
 
 ---
 
-### 📌 Recent Positions  
-- 🎓 [Director - Gina Cody School of Engineering and Computer Science (2023–2024)](https://gsaconcordia.ca)  
-- 💼 [Software Engineer - Persistent Systems (2020–2022)](https://www.persistent.com)  
+### 📌 Recent Positions
+- 💼 Software Engineer - [Bug0](https://bug0.com) (Present)
+- 🎓 Director - [Graduate Students' Association, Concordia University](https://gsaconcordia.ca) (2023–2024)
+- 💼 Software Engineer - [Persistent Systems](https://www.persistent.com) (2020–2022)
 - 💼 Software Developer - Panchaved AyurSoftware (2019–2020)  
 
 ---
