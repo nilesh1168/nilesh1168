@@ -2,7 +2,7 @@
 
 - 🎓 Masters in Applied Computer Science, [Concordia University](https://www.concordia.ca), Montreal, QC.   
 - 🔧 Experienced in **Java, Spring Boot, Python, Django, SQL, React, and Cloud Technologies**.  
-- 🚀 3 years of professional experience in software development, API design, and full-stack applications.  
+- 🚀 2 years of professional experience in software development, API design, and full-stack applications.  
 - 🌱 Currently working on **InvoiceGen**, an Invoice Generator on-the-go for small businesses and freelancers. (React Native(iOS and Android), TypeScript, and Expo). 
 - 🎯 Open for **new opportunities across Canada** (flexible work settings).  
 - 💻 Passionate about building scalable applications, exploring new technologies, and solving real-world problems with code.  
