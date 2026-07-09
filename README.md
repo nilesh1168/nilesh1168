@@ -37,18 +37,17 @@
 | ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) <br> <sub>PostgreSQL</sub> | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) <br> <sub>MySQL</sub> | ![AWS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg) <br> <sub>AWS</sub> | ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) <br> <sub>Docker</sub> |
 |---|---|---|---|
 
-<!--
+---
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nilesh1168&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=nilesh1168&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilesh1168&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nilesh1168&layout=compact&theme=radical" alt="Top Languages" />
 </p>  
 
--->
 ---
 
 ### 🧩 LeetCode Activity  
