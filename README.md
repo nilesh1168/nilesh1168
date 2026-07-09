@@ -41,11 +41,11 @@
 
 ### 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=nilesh1168&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=nilesh1168&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark_dimmed" alt="GitHub stats" />
 </p>  
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=nilesh1168&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=github_dark_dimmed" alt="Top Languages" />
 </p>  
 
 ---
